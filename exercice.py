@@ -13,7 +13,7 @@ def square_root(a: float) -> float:
 
 def square(a: float) -> float:
     b = input('Entrer la valeur dun nombre: ')
-    print(La v)
+    print(La valeur )
 
     return 0.0
 
