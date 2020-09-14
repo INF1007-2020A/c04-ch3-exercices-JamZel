@@ -19,7 +19,8 @@ def square(a: float) -> float:
 
 
 def average(a: float, b: float, c: float) -> float:
-    print('Entrer la valeur de trois nombres')
+    print('Entrer la valeur de trois nombres: ')
+    a = 
     return 0.0
 
 
