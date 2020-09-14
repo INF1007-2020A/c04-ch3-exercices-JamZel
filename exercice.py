@@ -13,9 +13,9 @@ def square_root(a: float) -> float:
 
 def square(a: float) -> float:
     a = input('Entrer la valeur dun nombre: ')
-    print('La valeur de son caré est: )
+    print(f'La valeur de son caré est: {a})
 
-    return 0.0
+    return a
 
 
 def average(a: float, b: float, c: float) -> float:
