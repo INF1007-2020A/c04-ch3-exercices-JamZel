@@ -12,7 +12,7 @@ def square_root(a: float) -> float:
 
 
 def square(a: float) -> float:
-    a = 
+    a = input()
 
     return 0.0
 
