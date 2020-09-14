@@ -5,11 +5,14 @@
 import math
 
 def square_root(a: float) -> float:
-    a = input(Entrer la valeur dun nombre)
+    a = input('Entrer la valeur dun nombre')
+    print(sqrt (a))
     return 0.0
 
 
 def square(a: float) -> float:
+    a = 
+
     return 0.0
 
 
