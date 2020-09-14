@@ -13,12 +13,7 @@ def square(a: float) -> float:
 
 
 def average(a: float, b: float, c: float) -> float:
-    print('Entrer la valeur de trois nombres: ')
-    a = input()
-    b = input()
-    c = input()
-
-    z= (a + b + c)/3
+        z= (a + b + c)/3
     return z
 
 
